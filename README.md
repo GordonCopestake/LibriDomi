@@ -48,7 +48,7 @@ All configuration is in one place near the top of the `<script>` block:
 |----------|---------|---------|
 | `APP_NAME` | `'LibriDomi'` | App name shown in UI |
 | `APP_FULL_NAME` | `'LibriDomi Local'` | Full name for page titles |
-| `DB_NAME` | `'shelf-reader-local'` | IndexedDB database name (don't change — would wipe libraries) |
+| `DB_NAME` | `'libridomi'` | IndexedDB database name |
 | `LOCATION_CHAR_BREAK` | `300` | Chars between location markers (smaller = more granular ticks) |
 | `FONT_RANGE` | `{ min: 80, max: 250, step: 10 }` | Font size range in percent |
 
