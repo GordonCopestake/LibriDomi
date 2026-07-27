@@ -2,6 +2,8 @@
 
 A completely private, single-file EPUB reader. No accounts, no server, no analytics, no tracking.
 
+**🔗 [Try it out here](https://gordoncopestake.github.io/LibriDomi/LibriDomi.html)**
+
 ## What it is
 
 LibriDomi is one HTML file (`LibriDomi.html`) that runs entirely in your browser. It stores EPUBs, covers, reading positions, and preferences in IndexedDB — nothing leaves your device.
